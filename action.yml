@@ -1,6 +1,6 @@
 name:  'mi primer container action'
-description 'laboratorio'
-author 'Carlos Rembao'
+description: 'laboratorio'
+author: 'Carlos Rembao'
 inputs:
   myInput:
     description: 'saldos por uso'
